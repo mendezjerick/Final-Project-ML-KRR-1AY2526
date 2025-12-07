@@ -43,6 +43,7 @@ shu-rice-intelligence/
 │   ├── mli_rice/               # package code (data, features, modeling, rules, CLI)
 │   └── web/                    # HTML/CSS/JS for the UI
 └── video/                      # placeholder for presentation assets
+│   └── Video Sample.mp4        # video presentation
 ```
 
 ## Quick start
