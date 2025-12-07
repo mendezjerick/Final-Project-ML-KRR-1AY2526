@@ -21,7 +21,7 @@ shu-rice-intelligence/
 ├── documentation/
 │   └── MLI_Guide.pdf           # reference proposal
 │   ├── GROUP CONTRIBUTION.pdf  
-│   └── RICE PRICE FORECASTING AND RULE-BASED ADVISORY SYSTEM FOR FOOD SECURITY IN THE PHILIPPINES                   
+│   └── RICE PRICE FORECASTING AND RULE-BASED ADVISORY SYSTEM FOR FOOD SECURITY IN THE PHILIPPINES.pdf                 
 ├── download_app/               # packaged binaries + PyInstaller work dirs
 │   ├── build/                  # PyInstaller workpath (output)
 │   └── dist/                   # packaged EXEs live here
